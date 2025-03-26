@@ -1,0 +1,48 @@
+{
+  "name": "aryan-media-downloader",
+  "version": "0.0.2",
+  "description": "Fetch Url Downloads From Facebook & TikTok & Instagram",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GITHUB-REPLIT/aryan-media-downloader.git"
+  },
+  "keywords": [
+    "instagram",
+    "downloader",
+    "media",
+    "link",
+    "tiktok",
+    "tikvm",
+    "video",
+    "fbdownload",
+    "twdown.net",
+    "fbdownload",
+    "download",
+    "facebook",
+    "fbdown",
+    "aryan",
+    "aryan-media-downloader",
+    "Instagram-download",
+    "Instagram-downloader",
+    "instadl",
+    "Instagram",
+    "instadl-aryan",
+    "Aryam-Media-Downloader"
+  ],
+  "author": "ArYAN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com//aryan-media-downloader/issues"
+  },
+  "homepage": "https://github.com/GITHUB-REPLIT/aryan-media-downloader#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cheerio": "~1.0.0-rc.5",
+    "got": "^11.8.3",
+    "request": "^2.88.2"
+  }
+}
