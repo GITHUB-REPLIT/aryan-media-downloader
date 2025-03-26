@@ -1,6 +1,6 @@
 {
   "name": "aryan-media-downloader",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Fetch Url Downloads From Facebook & TikTok & Instagram",
   "main": "index.js",
   "scripts": {
